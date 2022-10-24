@@ -2,6 +2,11 @@
     margin: 0;
 }
 
+.container{
+    width: 70%;
+    margin: 0px auto;
+}
+
 .top-bar{
     height: 200px;;
     background-color: #4ea0ff;
