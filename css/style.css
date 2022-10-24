@@ -21,7 +21,7 @@
     padding-left: 20px;
 }
 
-.subtitle{
+.subtitle, h3{
     color: #80828c;
 }
 
@@ -38,3 +38,10 @@ th{
 tr:nth-child(odd) {
     background-color: #b1e5f2;
   }
+
+.footer-img{
+    display: block;
+    width: 312px;
+    height: 208px;
+    margin: 10px 0;
+}
