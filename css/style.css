@@ -13,10 +13,28 @@
     width: 400px;
 }
 
-.article-head{
-    margin: 25px 0;;
+.article-head, .article, .list{
+    margin: 25px 0;
+}
+
+.list{
+    padding-left: 20px;
 }
 
 .subtitle{
     color: #80828c;
 }
+
+figcaption{
+    font-size: 10px;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+tr:nth-child(odd) {
+    background-color: #b1e5f2;
+  }
