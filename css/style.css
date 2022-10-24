@@ -13,6 +13,10 @@
     width: 400px;
 }
 
+.article-head{
+    margin: 25px 0;;
+}
+
 .subtitle{
     color: #80828c;
 }
